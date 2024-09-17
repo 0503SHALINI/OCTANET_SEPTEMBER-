@@ -1,3 +1,3 @@
 This is an Instagram-themed landing page.
 
-By SHALINI BHATTACHARJEE
+~ By SHALINI BHATTACHARJEE
